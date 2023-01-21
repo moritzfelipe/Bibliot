@@ -8,3 +8,6 @@
 
 ### [Never Split the Difference: Negotiating As If Your Life Depended On It](/books/never-split-the-difference.html) 
 **by Christopher Voss and Tahl Raz** - Is a book that teaches negotiation strategies and techniques based on the author's experience as a hostage negotiator for the FBI.
+
+### [Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets](/books/fooled-by-randomness.html) 
+**by Nassim Nicholas Taleb** - Discusses the role that chance and randomness play in shaping events and outcomes, particularly in the financial markets, and how people often overestimate their own role in these events and underestimate the role of chance.

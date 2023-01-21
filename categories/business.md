@@ -15,5 +15,11 @@
 ### [Thinking in Systems: A Primer](/books/thinking-in-systems.html) 
 **by Donella H. Meadows, Diana Wright** - Is a book that introduces the concept of systems thinking, which is a way of understanding and analyzing the relationships and interactions within complex systems in order to understand their behavior and make more effective decisions.
 
+### [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](/books/the-lean-startup.html) 
+**by Eric Ries** - Is a book about using iterative product development and data-driven decision making to rapidly test and validate business hypotheses in order to build successful companies more efficiently.
+
 ### [Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value](/books/continuous-discovery-habits.html) 
 **by Teresa Torres** - Is a book about the process for finding products that both provide value to customers and generate value for the business.
+
+
+

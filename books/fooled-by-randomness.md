@@ -1,9 +1,6 @@
 # Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets
 by Nassim Nicholas Taleb
 
-## Summary
-Discusses the role that chance and randomness play in shaping events and outcomes, particularly in the financial markets, and how people often overestimate their own role in these events and underestimate the role of chance.
-
 ## Background
 "Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets" is a book written by Nassim Nicholas Taleb, a philosopher, statistician, and trader. The book was published in 2001 and has since become a classic in the fields of finance, economics, and philosophy.
 

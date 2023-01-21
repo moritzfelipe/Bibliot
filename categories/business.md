@@ -13,4 +13,7 @@
 **by Nassim Nicholas Taleb** - Discusses the role that chance and randomness play in shaping events and outcomes, particularly in the financial markets, and how people often overestimate their own role in these events and underestimate the role of chance.
 
 ### [Thinking in Systems: A Primer](/books/thinking-in-systems.html) 
-**by Donella H. Meadows, Diana Wright** - Discusses the role that chance and randomness play in shaping events and outcomes, particularly in the financial markets, and how people often overestimate their own role in these events and underestimate the role of chance.
+**by Donella H. Meadows, Diana Wright** - Is a book that introduces the concept of systems thinking, which is a way of understanding and analyzing the relationships and interactions within complex systems in order to understand their behavior and make more effective decisions.
+
+### [Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value](/books/continuous-discovery-habits.html) 
+**by Teresa Torres** - Is a book about the process for finding products that both provide value to customers and generate value for the business.

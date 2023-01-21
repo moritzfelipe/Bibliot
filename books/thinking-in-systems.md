@@ -1,5 +1,5 @@
 # Thinking in Systems: A Primer
-**by Donella H. Meadows, Diana Wright**
+by Donella H. Meadows, Diana Wright
 
 ## Background
 "Thinking in Systems: A Primer" is a book written by Donella Meadows, a systems analyst, environmental scientist, and teacher. The book was published in 2008, but it has continued to be widely read and influential in the fields of environmental studies, public policy, and business management.

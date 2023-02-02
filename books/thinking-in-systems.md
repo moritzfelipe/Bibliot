@@ -10,22 +10,27 @@ The book introduces the concept of systems thinking, which is a way of understan
 I. Introduction
 - Definition of systems thinking
 - Importance of systems thinking in addressing complex problems
+
 II. The fundamental concepts of systems thinking
 - Feedback loops
 - Stock and flow
 - Delay and timing
+
 III. Tools and techniques for applying systems thinking
 - Causal loop diagrams
 - System archetypes
 - Mental models
+
 IV. Challenges and limitations of systems thinking
 - Bounded rationality
 - Groupthink
 - Complexity and uncertainty
+
 V. Overcoming the challenges and limitations of systems thinking
 - Diversity and inclusion
 - Transparency and accountability
 - Adaptability and resilience
+
 VI. Conclusion
 - The potential of systems thinking to address complex problems
 - The importance of ongoing learning and improvement in systems thinking.
